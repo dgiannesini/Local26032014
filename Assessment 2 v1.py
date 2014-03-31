@@ -1,3 +1,5 @@
+# Add after commit 01042014c1
+
 # Assignment 2 for ITC 415
 
 # Car class to create 3 car object: Toyota Kruger, Nissan Patrol, and Ford Territory
